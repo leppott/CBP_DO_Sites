@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-06-27 08:03:24
+    #> Last Update: 2022-06-27 08:13:39
+
+# CBP_DO_Sites 1.0.0.9003
+
+Released - 2022-06-27
+
+-   refactor: Split single shiny file into three (ui, server, and
+    global)
 
 # CBP_DO_Sites 1.0.0.9002
 
