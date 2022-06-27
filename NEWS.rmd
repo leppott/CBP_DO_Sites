@@ -20,6 +20,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+CBP_DO_Sites 1.0.0.9002
+===========
+Released - 2022-06-27
+
+* docs: Update DESCRIPTION
+* docs: Add .gitignore
+
 CBP_DO_Sites 1.0.0.9001
 ===========
 Released - 2022-06-27

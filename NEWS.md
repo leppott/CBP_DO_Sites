@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-06-27 07:54:52
+    #> Last Update: 2022-06-27 08:03:24
+
+# CBP_DO_Sites 1.0.0.9002
+
+Released - 2022-06-27
+
+-   docs: Update DESCRIPTION
+-   docs: Add .gitignore
 
 # CBP_DO_Sites 1.0.0.9001
 

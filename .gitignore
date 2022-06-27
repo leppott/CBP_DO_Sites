@@ -1,0 +1,62 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
+rsconnect/
+.Rproj.user
+baytrendsmap.Rproj
+inst/extdata/Notebook_baytrendsmap.Rmd
+inst/doc
+docs
+doc
+Meta
+NEWS.html
+inst/shiny-examples/baytrendsmap/map/map_range.*
+inst/shiny-examples/baytrendsmap/map/map_change.*
+inst/extdata/Notebook_baytrendsmap.nb.html
+.Rproj.user/D72E3284/sources/per/t/0F1F9DA6
+.Rproj.user/D72E3284/sources/per/t/0F1F9DA6-contents
+.Rproj.user/D72E3284/sources/per/t/7BA2B5F6
+.Rproj.user/D72E3284/sources/per/t/7BA2B5F6-contents
+.Rproj.user/D72E3284/sources/prop/80015A08
+.Rproj.user/D72E3284/sources/prop/INDEX
+.Rproj.user/shared/notebooks/5F688602-NEWS/1/s/chunks.json
+*.Rproj
+.Rproj.user/D72E3284/sources/per/t/0F1F9DA6
+.Rproj.user/D72E3284/sources/per/t/0F1F9DA6-contents
+.Rproj.user/D72E3284/sources/per/t/7BA2B5F6
+.Rproj.user/D72E3284/sources/per/t/7BA2B5F6-contents
+.Rproj.user/D72E3284/sources/prop/80015A08
+.Rproj.user/D72E3284/sources/prop/INDEX
+.Rproj.user/shared/notebooks/5F688602-NEWS/1/s/chunks.json
